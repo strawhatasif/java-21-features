@@ -1,8 +1,8 @@
-## Java 17 to 21
-### Language Changes Showcase
+## Java 21
+### Language Showcase
 
 ### Purpose
-* The motivation for this project is to demonstrate language features introduced by _Oracle_ between `Java 17` and `Java 21`.
+* The motivation for this project is to demonstrate two notable language features introduced by _Oracle_ in `Java 21`.
 
 ### Running the examples
 * Each package has a class with a `main` method. Simply right click and click _run_
